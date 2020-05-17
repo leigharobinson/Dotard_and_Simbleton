@@ -1,14 +1,19 @@
-/* #output3 {
-  display: none;
-} */
+h1 {
+  color: red;
+}
 
-/* #output2 {
+/* #output {
   display: none;
 }
 
 #output1 {
   display: none;
 }
-#output {
+
+#output2 {
+  display: none;
+}
+
+#output3 {
   display: none;
 } */
