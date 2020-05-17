@@ -6,7 +6,7 @@ const newYorkBusinesses = businesses.filter((business) => {
   if (business.addressStateCode === "NY") {
     inNewYork = true;
   }
-  console.log(inNewYork);
+  // console.log(inNewYork);
   return inNewYork;
 });
 
